@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "username": "Você", 
+    "pic": "http://lorempixel.com/200/200/people/1/", 
+  },
+  {
+    "id": "2",
+    "username": "npcomp", 
+    "pic": "http://lorempixel.com/200/200/people/2/", 
+  },
+  {
+    "id": "3",
+    "username": "tramont", 
+    "pic": "http://lorempixel.com/200/200/people/3/", 
+  },
+  {
+    "id": "4",
+    "username": "andi23", 
+    "pic": "http://lorempixel.com/200/200/people/4/", 
+  },
+  {
+    "id": "5",
+    "username": "guepardo", 
+    "pic": "http://lorempixel.com/200/200/people/5/", 
+  },
+  {
+    "id": "6",
+    "username": "larissa", 
+    "pic": "http://lorempixel.com/200/200/people/6/", 
+  },
+  {
+    "id": "7",
+    "username": "noluca", 
+    "pic": "http://lorempixel.com/200/200/people/7/", 
+  },
+  {
+    "id": "8",
+    "username": "alice3", 
+    "pic": "http://lorempixel.com/200/200/people/8/", 
+  },
+  {
+    "id": "9",
+    "username": "ruan", 
+    "pic": "http://lorempixel.com/200/200/people/9/", 
+  },
+  {
+    "id": "10",
+    "username": "napolis", 
+    "pic": "http://lorempixel.com/200/200/people/10/", 
+  }
+]
