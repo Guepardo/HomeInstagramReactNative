@@ -2,11 +2,11 @@
 
 Projeto de estudo de interfaces e organização de components com React/React Native. 
 
-https://i.imgur.com/3bTam8C.png
+![Image](https://i.imgur.com/IsCYjEO.png)
 
-![Image of Yaktocat](https://i.imgur.com/IsCYjEO.png)
-![Image of Yaktocat](https://i.imgur.com/u56Rxqz.png)
-![Image of Yaktocat](https://i.imgur.com/3bTam8C.png)
+![Image](https://i.imgur.com/u56Rxqz.png)
+
+![Image](https://i.imgur.com/3bTam8C.png)
 
 ## Organização do projeto
 
